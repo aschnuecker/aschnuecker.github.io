@@ -22,14 +22,9 @@ a {
 	color: #2c506d;
 	}
 
-p.italic {
-    font-style: italic;
-}	
-
 p.one {
      border-bottom: 4px solid #2c506d;
 }
-
 
 p.two {
      border-bottom: 1px solid #2c506d;
@@ -40,8 +35,6 @@ p.small {
     margin-top: 5em;
     margin-bottom: 2em;
 }
-
-
 
 h1 { 
 
@@ -55,15 +48,12 @@ h2 {
 
 }
 
-
-
 h4 { 
 
     margin-top: 2em;
     margin-bottom: 0.5em;
 
 }
-
 
 .flex-containermain {
 	display: -webkit-flex;
@@ -80,10 +70,7 @@ h4 {
 	align-items: flex-start;
         text-align: left;
 		}
-
-
-	
-	
+		
 img {	
 	hight: 50%;
 	}
