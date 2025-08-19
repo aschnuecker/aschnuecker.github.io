@@ -78,9 +78,10 @@ h4 {
 		}
 		
 img {	
-	hight: 50%;
+	  max-width: 450px;  /* won’t exceed 200px */
+  width: 100%;       /* scales down with parent container */
+  height: auto;      /* keeps proportions */
 	}
-
 #main_info {
 	margin-left: 1.5cm;
 	
